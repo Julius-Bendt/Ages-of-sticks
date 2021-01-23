@@ -1,0 +1,11 @@
+OBS
+
+- "Baggrund_Rollercoaster_animation", er ikke 16:9, hvilket betyder at man ikke ser det hele - det er meningen.
+
+- "FerrisWheel_RotatingPiece" skal rotere.
+
+- "FerrisWheel_cage" skal fungere som rackdoll på pariserhjulet.
+
+- "FerrisWheel_centerpiece" skal være statisk, i midten af pariserhjulet.
+
+Kh Lathes <3 

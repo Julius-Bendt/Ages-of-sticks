@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b81ff3f4018bc8c428ac80f62bfa187f, type: 3}
+  m_Name: uzi
+  m_EditorClassIdentifier: 
+  maxAmmo: 30
+  damage: 2
+  accurency: 25
+  fireRate: 0.03
+  recoil: 0.029
+  autoFire: 1
+  bullet: {fileID: 8550680351334124195, guid: 3649e18192a03fa4b9197b18835a50d2, type: 3}
+  muzzle: {fileID: 8705489543348771164, guid: b257673002c41e74c86470e69702e4c7, type: 3}
+  gun: {fileID: 7299266454011167063, guid: c3bcffc82533a6949a005b0c3742aa7a, type: 3}
+  shell: {fileID: 5399027970581924027, guid: 97c2e49f15701554ab41113d0b2bfa89, type: 3}
+  shakeTime: 0.025
+  muzzlePos: {x: 7.44, y: 2.58, z: 0}
+  objPos: {x: 0.956, y: -0.03, z: 0}
+  scale: {x: 0.04942567, y: 0.47941822, z: 0.040939804}
+  worldScale: {x: 0.05, y: 0.05, z: 0.05}
+  shellScale: {x: 0.07342565, y: 0.07342565, z: 0.07342565}
+  melee: 0
+  swingTime: 0
+  swingRotate: {x: 0, y: 0, z: 0}
+  move: 0
+  durability: 999
+  fireClip:
+  - {fileID: 8300000, guid: c458f7fb9c8ec0643ba30182322afeae, type: 3}

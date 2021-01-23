@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: a783902703dd27e40a1800869cf6a5dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2045552071678654483
+    second: ALLERNYESTE_Beginning_Portal_0
+  - first:
+      213: -415591963157335186
+    second: ALLERNYESTE_Beginning_Portal_1
+  - first:
+      213: -2098800249649120629
+    second: ALLERNYESTE_Beginning_Portal_2
+  - first:
+      213: -8867394063600559952
+    second: ALLERNYESTE_Beginning_Portal_3
+  - first:
+      213: 5977024385020060374
+    second: ALLERNYESTE_Beginning_Portal_4
+  - first:
+      213: 2252388793364965860
+    second: ALLERNYESTE_Beginning_Portal_5
+  - first:
+      213: -1992321746585981591
+    second: ALLERNYESTE_Beginning_Portal_6
+  - first:
+      213: -2232041934143541686
+    second: ALLERNYESTE_Beginning_Portal_7
+  - first:
+      213: -1929078626704215019
+    second: ALLERNYESTE_Beginning_Portal_8
+  - first:
+      213: 2777585202910423863
+    second: ALLERNYESTE_Beginning_Portal_9
+  - first:
+      213: 8198317690911044887
+    second: ALLERNYESTE_Beginning_Portal_10
+  - first:
+      213: -405376754209300345
+    second: ALLERNYESTE_Beginning_Portal_11
+  - first:
+      213: 2110837856195380629
+    second: ALLERNYESTE_Beginning_Portal_12
+  - first:
+      213: 3469974981515051180
+    second: ALLERNYESTE_Beginning_Portal_13
+  - first:
+      213: -8479807458293821971
+    second: ALLERNYESTE_Beginning_Portal_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ALLERNYESTE_Beginning_Portal_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 26
+        width: 450
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36443134ee15b044abf7db8ce2133c1
+      internalID: 2045552071678654483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_Beginning_Portal_1
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 26
+        width: 450
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b9f1fcc95b8ca41a2e1e458f65f81a
+      internalID: -415591963157335186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_Beginning_Portal_2
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 26
+        width: 451
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e64a39aca2d85d449f66649f83cd3c2
+      internalID: -2098800249649120629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_Beginning_Portal_3
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 26
+        width: 451
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c6e4ea6bbcaec4194d1f5619cffaf9
+      internalID: -8867394063600559952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_Beginning_Portal_4
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 26
+        width: 451
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52fd7cf6f51106419ca4ac96e724817
+      internalID: 5977024385020060374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_Beginning_Portal_5
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 26
+        width: 451
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be41cea2831fc5c4c9c1011713f0516d
+      internalID: 2252388793364965860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_Beginning_Portal_6
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 26
+        width: 450
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1ded144f94fad4cb25c2fca09ff3da
+      internalID: -1992321746585981591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_Beginning_Portal_7
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 26
+        width: 446
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3684ffff0661543824a03cc10133a3
+      internalID: -2232041934143541686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_Beginning_Portal_8
+      rect:
+        serializedVersion: 2
+        x: 4025
+        y: 26
+        width: 450
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c26492d7deb7a74da0ad530d443a065
+      internalID: -1929078626704215019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_Beginning_Portal_9
+      rect:
+        serializedVersion: 2
+        x: 4526
+        y: 26
+        width: 451
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6013eaec16c16243873c975c68d3bab
+      internalID: 2777585202910423863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_Beginning_Portal_10
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 26
+        width: 451
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d598f996302bb4f8022976106461f1
+      internalID: 8198317690911044887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_Beginning_Portal_11
+      rect:
+        serializedVersion: 2
+        x: 5526
+        y: 26
+        width: 451
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4de73b8afe6f5e49838caa3225efa3b
+      internalID: -405376754209300345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_Beginning_Portal_12
+      rect:
+        serializedVersion: 2
+        x: 6024
+        y: 26
+        width: 451
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98a89ac424ab294faec7089ddf634ee
+      internalID: 2110837856195380629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_Beginning_Portal_13
+      rect:
+        serializedVersion: 2
+        x: 6526
+        y: 26
+        width: 450
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf299c7c1767a4e4dbb67cce94e460d5
+      internalID: 3469974981515051180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_Beginning_Portal_14
+      rect:
+        serializedVersion: 2
+        x: 7024
+        y: 26
+        width: 450
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4773c8d1c077154380268bf7f5d14a8
+      internalID: -8479807458293821971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

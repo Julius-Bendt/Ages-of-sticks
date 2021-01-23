@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b81ff3f4018bc8c428ac80f62bfa187f, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  maxAmmo: 9999
+  damage: 5
+  accurency: 10
+  fireRate: 0.4
+  recoil: 0.056
+  autoFire: 0
+  bullet: {fileID: 8550680351334124195, guid: 3649e18192a03fa4b9197b18835a50d2, type: 3}
+  muzzle: {fileID: 8705489543348771164, guid: b257673002c41e74c86470e69702e4c7, type: 3}
+  gun: {fileID: 784823024548617433, guid: 89f80f80154c67f4d99b68b9453bbcc6, type: 3}
+  shell: {fileID: 5399027970581924027, guid: 97c2e49f15701554ab41113d0b2bfa89, type: 3}
+  shakeTime: 0.025
+  muzzlePos: {x: 7.34, y: 2.3, z: 0}
+  objPos: {x: 0.742, y: 0.31, z: 0}
+  scale: {x: 0.03940029, y: 0.21681039, z: 0.032635678}
+  worldScale: {x: 0.029, y: 0.029, z: 0.029}
+  shellScale: {x: 0.07342565, y: 0.07342565, z: 0.07342565}
+  melee: 0
+  swingTime: 0
+  swingRotate: {x: 0, y: 0, z: 0}
+  move: 0
+  durability: 999
+  fireClip:
+  - {fileID: 8300000, guid: 9f7c14ef4d6d0154cbd2a371c900ac23, type: 3}

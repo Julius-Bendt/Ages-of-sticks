@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 18fdc6e592752fa44b22e3cd9ea654db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4487021618077715030
+    second: ALLERNYESTE_End_Portal_0
+  - first:
+      213: -4575116389960205995
+    second: ALLERNYESTE_End_Portal_1
+  - first:
+      213: -3481127333436206381
+    second: ALLERNYESTE_End_Portal_2
+  - first:
+      213: 5715060344369058640
+    second: ALLERNYESTE_End_Portal_3
+  - first:
+      213: 6955755969225842139
+    second: ALLERNYESTE_End_Portal_4
+  - first:
+      213: 8417402419471188562
+    second: ALLERNYESTE_End_Portal_5
+  - first:
+      213: -5234352593803838062
+    second: ALLERNYESTE_End_Portal_6
+  - first:
+      213: 4295986410146451287
+    second: ALLERNYESTE_End_Portal_7
+  - first:
+      213: 6669040874162583200
+    second: ALLERNYESTE_End_Portal_8
+  - first:
+      213: 928703485509726863
+    second: ALLERNYESTE_End_Portal_9
+  - first:
+      213: -7964779342034606492
+    second: ALLERNYESTE_End_Portal_10
+  - first:
+      213: -7605169481898190271
+    second: ALLERNYESTE_End_Portal_11
+  - first:
+      213: 8288406622408744179
+    second: ALLERNYESTE_End_Portal_12
+  - first:
+      213: 5195893328201620635
+    second: ALLERNYESTE_End_Portal_13
+  - first:
+      213: 4057957611669402495
+    second: ALLERNYESTE_End_Portal_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ALLERNYESTE_End_Portal_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 454
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5d9e47374db12479afaf66c9a31a10
+      internalID: -4487021618077715030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_End_Portal_1
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 24
+        width: 454
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8335f4cb89a9fb4daf4a99e6c173c38
+      internalID: -4575116389960205995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_End_Portal_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 24
+        width: 454
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a4637971c1f924285103c8f3b230e7
+      internalID: -3481127333436206381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_End_Portal_3
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 24
+        width: 454
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e149c1b6b2f3a41b5da3dce9b80db2
+      internalID: 5715060344369058640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_End_Portal_4
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 24
+        width: 454
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dc5801891699742862c792e2385914
+      internalID: 6955755969225842139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_End_Portal_5
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 24
+        width: 452
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d378a2b196f5e0e48835f72885f075a7
+      internalID: 8417402419471188562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_End_Portal_6
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 24
+        width: 454
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e62355c4f3e1849aa0b6dd6f8e8c28
+      internalID: -5234352593803838062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_End_Portal_7
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 24
+        width: 450
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21ddceeff5d6e14f9b83135310edeac
+      internalID: 4295986410146451287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_End_Portal_8
+      rect:
+        serializedVersion: 2
+        x: 4023
+        y: 24
+        width: 454
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8fa524806ab5547923d1a29584057d
+      internalID: 6669040874162583200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_End_Portal_9
+      rect:
+        serializedVersion: 2
+        x: 4525
+        y: 24
+        width: 452
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850cf34a5e217d046a31e2bdf8d2b3f4
+      internalID: 928703485509726863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_End_Portal_10
+      rect:
+        serializedVersion: 2
+        x: 5023
+        y: 24
+        width: 454
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e95235dd356df45b5b7313eabe3438
+      internalID: -7964779342034606492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_End_Portal_11
+      rect:
+        serializedVersion: 2
+        x: 5524
+        y: 24
+        width: 454
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7f2793404cf7c43a02c6ebac8e46a3
+      internalID: -7605169481898190271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_End_Portal_12
+      rect:
+        serializedVersion: 2
+        x: 6022
+        y: 24
+        width: 454
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c6c8f2e25e5d248a768406f96618ef
+      internalID: 8288406622408744179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_End_Portal_13
+      rect:
+        serializedVersion: 2
+        x: 6524
+        y: 24
+        width: 454
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2667fecbc59c34d94cff6247cf9c47
+      internalID: 5195893328201620635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALLERNYESTE_End_Portal_14
+      rect:
+        serializedVersion: 2
+        x: 7022
+        y: 24
+        width: 454
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24079387de598164cb043d90c7e4c0c3
+      internalID: 4057957611669402495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
